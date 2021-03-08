@@ -3,7 +3,6 @@ google play store에서 다나까 검색후 설치후 확인부탁드립니다.
 
 간단한 구동영상은 해당 링크에서 확인부탁드립니다. 
 https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
-https://user-images.githubusercontent.com/78811229/110276877-762a0300-8017-11eb-9f89-7e767394d90d.mp4
 구동영상 
 {% include video id="2ONnV00GVAA" provider="youtube" %}
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
