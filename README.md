@@ -4,6 +4,11 @@ google play store에서 다나까 검색후 설치후 확인부탁드립니다.
 간단한 구동영상은 해당 링크에서 확인부탁드립니다. 
 https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
 
+구동영상 
+{% include video id="2ONnV00GVAA" provider="youtube" %}
+
+
+
 
 1. splash 화면 
 
