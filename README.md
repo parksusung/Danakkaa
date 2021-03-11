@@ -1,5 +1,5 @@
 자세한 이미지 및 실행은
-google play store에서 다나까 검색후 설치후 확인부탁드립니다.
+google play store에서 다나까 검색후 설치후 확인부탁드립니다. (안드로이드 전용)
 
 간단한 구동영상은 해당 링크에서 확인부탁드립니다. 
 https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
