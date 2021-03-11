@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
 
 2.메인실행화면 
 
+\
+
 
 
 
@@ -25,19 +27,51 @@ https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
 
 
 
+
+
+
 3. 메뉴얼실행화면 
+
+
+
+
+
 
 
 ![KakaoTalk_20210308_123059201](https://user-images.githubusercontent.com/78811229/110271208-dfefe000-800a-11eb-9216-96ce1ef4c6f7.jpg)
 
 
+
+
+
+
+
+
 4. 갤러리에서 사진불러오기 
+
+
+
+
+
+
+
+
+
 ![캡처](https://user-images.githubusercontent.com/78811229/110715193-1d8d7c80-8248-11eb-8774-c7e202760869.JPG)
 
 
 
 
+
 5. 직접 사진촬영
+
+
+
+
+
+
+
+
 ![2](https://user-images.githubusercontent.com/78811229/110715195-1ebea980-8248-11eb-9473-f25387682a0c.JPG)
 
 
@@ -46,4 +80,12 @@ https://www.youtube.com/watch?v=2ONnV00GVAA&feature=youtu.be
 
 
 6. 예측값 확률표 
+
+
+
+
+
+
+
+
 ![3](https://user-images.githubusercontent.com/78811229/110715197-1f574000-8248-11eb-83a4-5e62deef961b.JPG)
